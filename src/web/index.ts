@@ -1,3 +1,3 @@
-const adaptiveIconPositioner = () => { }
+const adaptiveIconPositioner = () => 'adaptiveIconPositioner'
 
 export default adaptiveIconPositioner
